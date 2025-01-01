@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "vanApp",
+    "slug": "vanApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./image/login/van.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./image/login/van.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.vanapp",
+      "adaptiveIcon": {
+        "foregroundImage": "./image/login/van.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./image/login/van.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "46fdb217-9aec-48d7-a499-d26c2cedc6d8"
+      }
+    }
+  }
+}
