@@ -156,4 +156,9 @@ Utilizando o EAS Update, o aplicativo recebe atualizações over-the-air (OTA) s
 Para publicar uma nova atualização:
 
 `eas update --branch production`
->>>>>>> 118153d (Commit do meu projeto)
+
+###### 🎥 Vídeo de Apresentação
+
+> *Assista ao vídeo explicativo sobre o projeto, suas funcionalidades e todas as etapas do desenvolvimento, desde a ideação até a publicação do APK:*
+
+🔗 **\[https://www.youtube.com/watch?v=Yvg4HovJMTg]**
