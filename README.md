@@ -161,4 +161,4 @@ Para publicar uma nova atualização:
 
 > *Assista ao vídeo explicativo sobre o projeto, suas funcionalidades e todas as etapas do desenvolvimento, desde a ideação até a publicação do APK:*
 
-🔗 **\[https://www.youtube.com/watch?v=Yvg4HovJMTg]**
+https://www.youtube.com/watch?v=Yvg4HovJMTg
